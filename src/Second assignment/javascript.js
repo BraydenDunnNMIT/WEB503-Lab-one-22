@@ -1,0 +1,1 @@
+// Create a function that takes an int (mins) and converts it to seconds. 
