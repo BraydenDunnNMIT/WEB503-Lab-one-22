@@ -1,5 +1,13 @@
 body {
 font-size: 2em;
+background-color: b;
+font-weight: normal;
 }
-h1 { font-style: italic
+/* Comments to comment on comments I might have commented on.
+*/ 
+.smcaps { font-size: 4em;
 }
+
+h1 { font-style: italic;
+}
+
